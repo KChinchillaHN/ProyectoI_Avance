@@ -1,0 +1,1 @@
+2_5Nombre    STRApellido  STREdad      INTGenero    CHRE_Civil   CHR2Posicion  STRSueldo    INT
